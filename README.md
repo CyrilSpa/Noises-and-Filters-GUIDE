@@ -5,6 +5,8 @@ This program can be use to understand how noises and filters interact with 2D an
 Also, it uses a GUIDE interface and it is a good exemple to know how to create it in MATLAB.
 It works in MATLAB for all operating system.
 
+Put all files in .zip in the same directory.
+
 When you run the program, dont forget to remplace "enter value" line for the intensity of noises and 
 the configuration of filters before using it.
 
