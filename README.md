@@ -12,14 +12,22 @@ the configuration of filters before using it.
 
 You can discover or test how noises interact with images.
 You can set three noises with different intensity:
+
 _Salt and pepper noise
+
 _Gaussian noise
+
 _Speckle noise
 
+
 Then you can add filters and set their configuration:
+
 _Median filter for 2D images (gray images)
+
 _Median filter for 3D images (color images) program found here: http://www.biomecardio.com/matlab/medfilt3.html#1
+
 _Average filter
+
 _Gaussian Filter
 
 You can watch their histogram, or understand what's happen in Fourrier transform
